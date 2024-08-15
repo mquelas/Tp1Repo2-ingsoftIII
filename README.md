@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-Cambio en main
-=======
-Cambio en conflictBranch
->>>>>>> conflictBranch
+#Nueva seccion
+Lo cambie por completo
+
